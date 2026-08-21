@@ -34,7 +34,6 @@ Computer Engineering undergraduate at the University of Peradeniya, passionate a
 
 ### GitHub Stats
 
-### GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YasiruHarinda&hide_border=true" height="165" />
