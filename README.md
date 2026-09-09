@@ -1,10 +1,3 @@
-  <p align="center">
-    <a href="https://yasiru-portfolio-blj2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/yasiru-edirimanna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:harindayasiru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  </p>
-
-Full updated README:
 
 <h1 align="center">Hi, I'm Yasiru Edirimanna 👋</h1>
   <h3 align="center">Computer Engineering Undergraduate</h3>
