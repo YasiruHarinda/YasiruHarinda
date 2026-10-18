@@ -1,4 +1,3 @@
-<p align="center"><b>Hi, I'm 👋</b></p>
 
 <p align="center">
   <picture>
