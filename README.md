@@ -1,5 +1,13 @@
-<h1 align="center">Hi, I'm Yasiru Edirimanna 👋</h1>
-<h3 align="center">Software Engineer · Computer Engineering Graduate</h3>
+<p align="center"><b>Hi, I'm 👋</b></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/name-light.svg" />
+    <img src="assets/name-dark.svg" alt="Yasiru Edirimanna" width="560" />
+  </picture>
+</p>
+<h3 align="center">Computer Engineering Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=C6F24E&center=true&vCenter=true&width=520&lines=Full-stack+Software+Engineering;Cloud+%26+DevOps;AI+Engineering;Open+to+full-time+roles" alt="Full-stack · Cloud & DevOps · AI Engineering · Open to full-time roles" />
