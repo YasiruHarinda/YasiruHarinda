@@ -41,10 +41,6 @@ Computer Engineering graduate with a strong interest in full-stack development, 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions,grafana,prometheus,git,github,linux,vscode&theme=dark" alt="Azure, AWS, Docker, Kubernetes, Terraform, GitHub Actions, Grafana, Prometheus, Git, GitHub, Linux, VS Code" />
   <br />
-  <img src="https://img.shields.io/badge/Helm-16161a?style=for-the-badge&logo=helm&logoColor=c6f24e" alt="Helm" />
-  <img src="https://img.shields.io/badge/Argo_CD-16161a?style=for-the-badge&logo=argo&logoColor=c6f24e" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Claude_API-16161a?style=for-the-badge&logo=anthropic&logoColor=c6f24e" alt="Claude API" />
-  <img src="https://img.shields.io/badge/Gemini-16161a?style=for-the-badge&logo=googlegemini&logoColor=c6f24e" alt="Gemini" />
 </p>
 
 ---
