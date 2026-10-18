@@ -12,7 +12,7 @@
   <a href="mailto:harindayasiru@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" /></a>
 </p>
 
-Computer Engineering graduate of the University of Peradeniya and former Software Engineering Intern at WSO2. I build full-stack applications, cloud-native systems on Kubernetes, and AI-driven tools. I love turning messy, real-world problems into clean, scalable solutions, and I'm always chasing the next thing to learn.
+Computer Engineering graduate with a strong interest in full-stack development, AI-driven systems, cloud computing, DevOps and embedded systems. Passionate about designing innovative, scalable solutions and exploring emerging technologies to solve real-world problems.
 
 ---
 
